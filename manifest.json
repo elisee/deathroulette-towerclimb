@@ -4,7 +4,7 @@
   "groups": {
     "Hazards": {
       "bets": 5,
-      "size": { "width": 256, "height": 256 },
+      "size": { "width": 64, "height": 64 },
       "categories": {
         "Monsters": [
           "Hound", "Rat", "Piranha", "Jelly Fish", "Worm", "Seed Pod", "Beetle", "Wizard", "Bat", "Giant Worm", "Ghost", "Beeble", "Blue Golem (Grenade)", "Pink Golem",
@@ -33,7 +33,7 @@
     },
     "Floors": {
       "bets": 2,
-      "size": { "width": 512, "height": 512 },
+      "size": { "width": 64, "height": 64 },
       "categories": {
         "Chapter 1": [ "Ground Floor", "Hatchery", "Conservatory", "Heart", "Ruins", "Ascension" ],
         "Chapter 2": [ "Segmentation Plant", "Volt Cave", "ZardoLand", "Club-Z", "Temple Of Devotion", "Zenith", "Top of the Tower", "Hidden Keep" ],
