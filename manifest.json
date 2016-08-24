@@ -36,7 +36,7 @@
       "size": { "width": 512, "height": 512 },
       "categories": {
         "Chapter 1": [ "Ground Floor", "Hatchery", "Conservatory", "Heart", "Ruins", "Ascension" ],
-        "Chapter 2": [ "Segmentation Plant", "Volt Cave", "ZardoLand", "Club-Z", "Temple of Devotion", "Zenith", "Top of the Tower", "Hidden Keep" ],
+        "Chapter 2": [ "Segmentation Plant", "Volt Cave", "ZardoLand", "Club-Z", "Temple Of Devotion", "Zenith", "Top of the Tower", "Hidden Keep" ],
         "Path of Exiles": [ "Soul Crossing", "Fatal Flight", "Zardo's Gallery" ],
         "Minigames": [ "Arcade", "ZBall", "Brutal Boiler", "Coliseum" ],
         "Victory": [ "Any Victory" ]
