@@ -1,0 +1,46 @@
+{
+  "title": "TowerClimb",
+  "hostBetId": "Hazards_Success_Victory",
+  "groups": {
+    "Hazards": {
+      "bets": 5,
+      "size": { "width": 256, "height": 256 },
+      "categories": {
+        "Enemies": [
+          "Hound", "Rat", "Piranha", "Jelly Fish", "Worm", "Seed Pod", "Beetle", "Wizard", "Bat", "Giant Worm", "Ghost", "Beeble", "Blue Golem (Grenade)", "Pink Golem",
+          "Glowsticker", "Raver", "Bouncer", "Leech", "Devout", "Watcher", "Corrupted Watcher"
+        ],
+
+        "Traps and Accidents": [
+          "Fell To Death", "Powder Keg", "Crushed(Block)", "Overdosed", "Airborn Spike", "Fell out of Tower",
+          "Spike Trap", "Fan Blade(Fatal Flight)", "Crushed(Falling Trap)", "Laser Trap", "Pneumatic Spikes",
+          "Mine", "Death Block", "Skewers", "Laser Eye", "Spinning Blade", "Guillotine", "Fan(Zenith)",
+          "Poison Gas", "Poison Plant", "Lava Drip", "Fell in Lava", "Icicle", "Lightning", "Volt Block" 
+        ],
+
+        "Bosses": [
+          "Krystelle", "Mother Hound", "Brobash", "Zardo", "Dunked (ZBall)"
+        ],
+
+        "Success": [ 
+          "Complete the Tower", 
+          "Complete The Centurial Trials", 
+          "Finish the Collosus",  
+          "Complete Hidden Keep", 
+          "BFF Ending"
+        ]
+      }
+    },
+    "Floors": {
+      "bets": 2,
+      "size": { "width": 512, "height": 512 },
+      "categories": {
+        "Chapter 1": [ "Ground Floor", "Hatchery", "Conservatory", "Heart", "Ruins", "Ascension" ],
+        "Chapter 2": [ "Segmentation Plant", "Volt Cave", "ZardoLand", "Club-Z", "Temple of Devotion", "Zenith", "Top of the Tower", "Hidden Keep" ],
+        "Path of Exiles": [ "Soul Crossing", "Fatal Flight", "Zardo's Gallery" ],
+        "Minigames": [ "Arcade", "ZBall", "Brutal Boiler", "Coliseum" ],
+        "Victory": [ "Any Victory" ]
+      }
+    }
+  }
+}
