@@ -6,15 +6,15 @@
       "bets": 5,
       "size": { "width": 256, "height": 256 },
       "categories": {
-        "Enemies": [
+        "Monsters": [
           "Hound", "Rat", "Piranha", "Jelly Fish", "Worm", "Seed Pod", "Beetle", "Wizard", "Bat", "Giant Worm", "Ghost", "Beeble", "Blue Golem (Grenade)", "Pink Golem",
           "Glowsticker", "Raver", "Bouncer", "Leech", "Devout", "Watcher", "Corrupted Watcher"
         ],
 
         "Traps and Accidents": [
-          "Fell To Death", "Powder Keg", "Crushed(Block)", "Overdosed", "Airborn Spike", "Fell out of Tower",
-          "Spike Trap", "Fan Blade(Fatal Flight)", "Crushed(Falling Trap)", "Laser Trap", "Pneumatic Spikes",
-          "Mine", "Death Block", "Skewers", "Laser Eye", "Spinning Blade", "Guillotine", "Fan(Zenith)",
+          "Fell To Death", "Powder Keg", "Crushed (Block)", "Overdosed", "Airborn Spike", "Fell out of Tower",
+          "Spike Trap", "Fan Blade (Fatal Flight)", "Crushed (Falling Trap)", "Laser Trap", "Pneumatic Spikes",
+          "Mine", "Death Block", "Skewers", "Laser Eye", "Spinning Blade", "Guillotine", "Fan (Zenith)",
           "Poison Gas", "Poison Plant", "Lava Drip", "Fell in Lava", "Icicle", "Lightning", "Volt Block" 
         ],
 
@@ -24,9 +24,9 @@
 
         "Success": [ 
           "Complete the Tower", 
-          "Complete The Centurial Trials", 
+          "Complete the Centurial Trials", 
           "Finish the Collosus",  
-          "Complete Hidden Keep", 
+          "Complete the Hidden Keep", 
           "BFF Ending"
         ]
       }
